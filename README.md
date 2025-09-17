@@ -2,7 +2,9 @@
 
 Hi there! :wave:
 
-I am currently a [SED](https://sed.paris.inria.fr/service/) research engineer at the [INRIA](https://www.inria.fr/en) [Paris center](https://www.inria.fr/en/centre-inria-de-paris), in France :fr:, working mostly in the [ARAMIS team](https://www.aramislab.fr) located at the [Paris Brain Institute](https://icm-institute.org/en/mission-en/) (ICM). Part of my work is dedicated to neuro-science tools like [Clinica](https://www.clinica.run) or [Leaspy](https://leaspy.readthedocs.io/en/stable/), developed by the ARAMIS team.
+I am currently a teacher and researcher at the [Aflokkat](https://aflokkat.com) organization. I teach computer science and AI to students in the engineering schools [MIRA](https://mira-ingenieurs.com/en/mira-english/) and ESIA. 
+
+Before joining Aflokkat, I was a [SED](https://sed.paris.inria.fr/service/) research engineer at the [INRIA](https://www.inria.fr/en) [Paris center](https://www.inria.fr/en/centre-inria-de-paris), in France :fr:. I was mostly working in the [ARAMIS team](https://www.aramislab.fr) located at the [Paris Brain Institute](https://icm-institute.org/en/mission-en/) (ICM). Part of my work was dedicated to neuro-science tools like [Clinica](https://www.clinica.run) or [Leaspy](https://leaspy.readthedocs.io/en/stable/), developed by the ARAMIS team.
 
 Before joining the Paris center, I was a research engineer in the [PARIETAL team](https://team.inria.fr/parietal/research/) at [Saclay center](https://www.inria.fr/en/inria-saclay-centre) of INRIA. I was mainly working on developping and maintaining neuro-science :brain: and machine learning softwares like [Nilearn](https://github.com/nilearn/nilearn) in which I am still involved as a core developer.
 
