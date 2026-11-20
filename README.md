@@ -2,7 +2,7 @@
 
 Hi there! :wave:
 
-I am currently a teacher and researcher at the [Aflokkat](https://aflokkat.com) organization located in Ajaccio, Corsica. I teach computer science and AI to students in the engineering schools [MIRA](https://mira-ingenieurs.com/en/mira-english/) and ESIA. 
+I am a teacher and researcher at the [MIRA](https://mira-ingenieurs.com/en/mira-english/), a CTI-accredited engineering school specializing in artificial intelligence and robotics, part of the [Aflokkat](https://aflokkat.com) and based in Ajaccio, Corsica. My research focuses on industrial projects that use AI to improve the performance of Corsican companies. I also teach computer science and artificial intelligence to engineering students.
 
 Before joining Aflokkat, I was a [SED](https://sed.paris.inria.fr/service/) research engineer at the [INRIA](https://www.inria.fr/en) [Paris center](https://www.inria.fr/en/centre-inria-de-paris), in France :fr:. I was mostly working in the [ARAMIS team](https://www.aramislab.fr) located at the [Paris Brain Institute](https://icm-institute.org/en/mission-en/) (ICM). Part of my work was dedicated to neuro-science tools like [Clinica](https://www.clinica.run) or [Leaspy](https://leaspy.readthedocs.io/en/stable/), developed by the ARAMIS team.
 
